@@ -1,0 +1,7 @@
+The mkvmufs file takes in a string that will should be in the 
+"some string".img format and it will create a file img.
+
+It will overwrite the file if the filename matches with the 
+argument
+
+IF there is no filename then it send an error and stop the program
